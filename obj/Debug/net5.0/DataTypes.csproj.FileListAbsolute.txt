@@ -1,0 +1,15 @@
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/bin/Debug/net5.0/DataTypes.deps.json
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.json
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.dev.json
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/bin/Debug/net5.0/DataTypes.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/bin/Debug/net5.0/ref/DataTypes.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/bin/Debug/net5.0/DataTypes.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.csproj.AssemblyReference.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfoInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfo.cs
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/ref/DataTypes.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/DataTypes/obj/Debug/net5.0/DataTypes.genruntimeconfig.cache
